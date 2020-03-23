@@ -1,4 +1,4 @@
-# Final-Project-Introduction-Research-Methods
+# Final-Project-IRM
 This is an repository for the Final Project of the course Introduction to Research Methods. The file Donorregistratie.csv contains the dataset that is accessible via this link https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82814NED/table?dl=1FB56
 
 Getting started:
